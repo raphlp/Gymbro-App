@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Core User Needs
+## Core User Needs
 
 > **The problems we solve:**
 
