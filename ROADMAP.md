@@ -115,8 +115,27 @@
 - Complete coaching system
 - Customizable dashboard
 
-### v1.4.0 (Next)
-- 🔵 *To be defined*
+### v1.4.0 (Next Cycle)
+> **Timeline:** Jan - Feb 2026 (6-8 Weeks)  
+> **Objective:** Retention & Core User Base  
+> **Target:** 20-50 Active Niche Users
+
+#### �️ Axis 1: Product & Retention
+- **Quality of Life** — Polish existing features (Classic/Interval modes).
+- **Feedback Loop** — Rapid iteration based on initial user feedback.
+- **Stability** — Zero-crash goal.
+- *Note: "Coaching All Modes" continues in parallel (Yellow status).*
+
+#### 📢 Axis 2: Acquisition (Sprint A)
+- **Weeks 1-2**: Initial recruitment (Gyms, Discord, Reddit).
+- **Weeks 3-4**: Onboarding first wave of test users.
+- **Weeks 5-8**: Analyze retention and iterate.
+
+---
+
+### v1.5.0 (Future)
+- **Expansion** — Open to wider audience.
+- **Major Features** — Deployment of full Coaching for all modes.
 
 ---
 
@@ -151,4 +170,4 @@ Have a suggestion? [Open an issue](../../issues/new) with the `feature-request` 
 
 ---
 
-*Created with love for Gymbro*
+*Gymbro App Team*
