@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Gymbro Logo" width="120" />
+  <img src="assets/logo.png" alt="Gymbro Logo" width="250" />
   
   <br /> <br />
 
-  [![App Store](assets/appstore.svg)](https://apps.apple.com/fr/app/gymbro-app/id6751058919)
+  <a href="https://apps.apple.com/fr/app/gymbro-app/id6751058919">
+    <img src="assets/appstore.svg" alt="App Store" width="150" />
+  </a>
   &nbsp;&nbsp;
-  [![Play Store](assets/playstore.svg)](https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro)
+  <a href="https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro">
+    <img src="assets/playstore.svg" alt="Play Store" width="150" />
+  </a>
 
   <br />
 
