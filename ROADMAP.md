@@ -16,6 +16,18 @@
 
 ---
 
+## 🧠 Core User Needs
+
+> **The problems we solve:**
+
+1. **Efficiency First**  
+   *"I want a simple, fast workout log that lets me track my progress without wasting time."*
+
+2. **Instant Validation**  
+   *"When I finish my session, I need to clearly see if I've actually progressed."*
+
+---
+
 ## Features
 
 ### Core Workout Experience
