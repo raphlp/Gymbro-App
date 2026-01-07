@@ -1,9 +1,18 @@
-# Gymbro App
+<div align="center">
+  <img src="assets/logo.png" alt="Gymbro Logo" width="120" />
+  
+  <br /> <br />
 
-> The modern bodybuilding app to track your workouts, follow your progress, and join a motivated community.
+  [![App Store](assets/appstore.svg)](https://apps.apple.com/fr/app/gymbro-app/id6751058919)
+  &nbsp;&nbsp;
+  [![Play Store](assets/playstore.svg)](https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro)
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple&logoColor=white)](https://apps.apple.com/fr/app/gymbro-app/id6751058919)
-[![Play Store](https://img.shields.io/badge/Play%20Store-Download-green?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro)
+  <br />
+
+  <p>
+    <b>The modern bodybuilding app to track your workouts, follow your progress, and join a motivated community.</b>
+  </p>
+</div>
 
 ---
 
@@ -22,15 +31,6 @@
 
 ---
 
-## Download
-
-| Platform | Link |
-|----------|------|
-| iOS | [App Store](https://apps.apple.com/fr/app/gymbro-app/id6751058919) |
-| Android | [Play Store](https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro) |
-
----
-
 ## Roadmap
 
 Want to see what we're working on? Check out our [Full Roadmap](./ROADMAP.md).
@@ -42,8 +42,12 @@ Have a feature idea? [Open an issue](../../issues/new)!
 ## Contact
 
 - **Email**: contact@gymbroapp.eu
-- **Instagram**: [@gymbroapp](https://instagram.com/gymbroapp)
+- **Instagram**: 
+  - 🇫🇷 [@gymbroapp_fr](https://instagram.com/gymbroapp_fr)
+  - 🇺🇸 [@gymbroapp_en](https://instagram.com/gymbroapp_en)
 
 ---
 
-*Made with love by the Gymbro Team*
+<div align="center">
+  <i>Made with love by the Gymbro Team</i>
+</div>
