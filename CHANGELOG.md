@@ -1,57 +1,57 @@
-# 📝 Changelog
+# Changelog
 
-Toutes les modifications notables de Gymbro sont documentées ici.
+All notable changes to Gymbro are documented here.
 
-Le format est basé sur [Keep a Changelog](https://keepachangelog.com/fr/1.0.0/).
-
----
-
-## [1.3.0] - Janvier 2026
-
-### ✨ Ajouté
-- **Modes Interval** — Tabata, EMOM, AMRAP, For Time
-- **iOS Live Activity** — Widget dynamique pendant les workouts
-- **Dashboard personnalisable** — Réorganisation et visibilité des sections
-- **Coaching complet** — Seeds, chat avec médias, programmes assignés
-
-### 🔧 Amélioré
-- Audio feedback pour les transitions interval
-- Retour haptique (vibrations)
-- Performance générale
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [1.2.0] - Décembre 2025
+## [1.3.0] - January 2026
 
-### ✨ Ajouté
-- **Plateforme Coaching** — Trouve un coach ou deviens coach
-- **Chat coach-élève** — Messagerie intégrée
-- **Système de paiement** — Abonnements Stripe
+### Added
+- **Interval Modes** — Tabata, EMOM, AMRAP, For Time
+- **iOS Live Activity** — Dynamic widget during workouts
+- **Customizable Dashboard** — Section reordering and visibility
+- **Complete Coaching** — Seeds, chat with media, assigned programs
 
-### 🔧 Amélioré
-- Stabilité générale
-
----
-
-## [1.1.0] - Novembre 2025
-
-### ✨ Ajouté
-- **Feed Social** — Partage tes workouts
-- **Profils utilisateurs** — Stats et followers
-- **Notifications** — Alertes d'activité
+### Improved
+- Audio feedback for interval transitions
+- Haptic feedback (vibrations)
+- General performance
 
 ---
 
-## [1.0.0] - Octobre 2025
+## [1.2.0] - December 2025
 
-### 🎉 Première version
-- Mode Classic, Timed, Circuit
-- Création de programmes et exercices
-- Historique des workouts
-- Multi-langue (FR, EN, ES, IT)
+### Added
+- **Coaching Platform** — Find a coach or become one
+- **Coach-Student Chat** — Integrated messaging
+- **Payment System** — Stripe subscriptions
+
+### Improved
+- General stability
+
+---
+
+## [1.1.0] - November 2025
+
+### Added
+- **Social Feed** — Share your workouts
+- **User Profiles** — Stats and followers
+- **Notifications** — Activity alerts
+
+---
+
+## [1.0.0] - October 2025
+
+### Initial Release
+- Classic, Timed, Circuit Modes
+- Program and exercise creation
+- Workout history
+- Multi-language (FR, EN, ES, IT)
 - Dark Mode
 - Google & Apple Sign-In
 
 ---
 
-*Voir la [Roadmap](./ROADMAP.md) pour les prochaines features.*
+*See the [Roadmap](./ROADMAP.md) for upcoming features.*

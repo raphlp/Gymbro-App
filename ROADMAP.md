@@ -1,154 +1,154 @@
-# 🗺️ GYMBRO ROADMAP
+# Gymbro Roadmap
 
-> **Version actuelle :** 1.3.0  
-> **Dernière mise à jour :** Janvier 2026
+> **Current Version:** 1.3.0  
+> **Last Update:** January 2026
 
 ---
 
-## 📊 Légende
+## Legend
 
-| Statut | Description |
+| Status | Description |
 |--------|-------------|
-| 🟢 | **Shipped** - En production |
-| 🟡 | **In Progress** - En développement |
-| 🔵 | **Planned** - Planifié pour prochaine version |
-| ⚪ | **Backlog** - Idées futures |
+| 🟢 | **Shipped** - In production |
+| 🟡 | **In Progress** - Currently in development |
+| 🔵 | **Planned** - Planned for next release |
+| ⚪ | **Backlog** - Future ideas |
 
 ---
 
-## 🎯 Features
+## Features
 
-### 💪 Core Workout Experience
+### Core Workout Experience
 
-#### Modes d'entraînement
-| Statut | Feature | Description |
+#### Workout Modes
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Classic Mode | Séries/répétitions traditionnelles avec suivi des poids |
-| 🟢 | Timed Mode | Exercices chronométrés / isométriques |
-| 🟢 | Circuit Mode | Enchaînement d'exercices avec repos entre rounds |
-| 🟢 | Interval - Tabata | 20s travail / 10s repos, configurable |
+| 🟢 | Classic Mode | Traditional sets/reps with weight tracking |
+| 🟢 | Timed Mode | Timed / isometric exercises |
+| 🟢 | Circuit Mode | Sequence of exercises with rest between rounds |
+| 🟢 | Interval - Tabata | 20s work / 10s rest, configurable |
 | 🟢 | Interval - EMOM | Every Minute On the Minute |
 | 🟢 | Interval - AMRAP | As Many Rounds As Possible |
-| 🟢 | Interval - For Time | Course contre la montre avec cap |
+| 🟢 | Interval - For Time | Race against the clock with cap |
 
-#### Fonctionnalités Workout
-| Statut | Feature | Description |
+#### Workout Features
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Rest Timer | Timer de repos avec overlay visuel |
-| 🟢 | Pre-Workout Survey | Questionnaire pré-entraînement |
-| 🟢 | RPE Selector | Taux d'effort perçu par série |
-| 🟢 | Notes par exercice | Annotations personnalisées |
-| 🟢 | Audio & Vibration | Feedback sonore et haptique |
-| 🟢 | Édition live | Modifier l'ordre/exercices pendant la séance |
+| 🟢 | Rest Timer | Rest timer with visual overlay |
+| 🟢 | Pre-Workout Survey | Pre-workout questionnaire (energy, motivation, etc.) |
+| 🟢 | RPE Selector | Rate of Perceived Exertion per set |
+| 🟢 | Exercise Notes | Personalized notes per exercise |
+| 🟢 | Audio & Vibration | Sound and haptic feedback |
+| 🟢 | Live Editing | Modify order/exercises during session |
 
 ---
 
-### 📚 Programmes & Exercices
+### Programs & Exercises
 
-| Statut | Feature | Description |
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Création de programmes | Programmes personnalisés |
-| 🟢 | Groupes de programmes | Organisation par catégories |
-| 🟢 | Bibliothèque d'exercices | Base d'exercices prédéfinis |
-| 🟢 | Exercices personnalisés | Création d'exercices custom |
-| 🟢 | Explorer les programmes | Découverte de programmes communautaires |
+| 🟢 | Program Creation | Custom programs |
+| 🟢 | Program Groups | Organization by categories |
+| 🟢 | Exercise Library | Database of predefined exercises |
+| 🟢 | Custom Exercises | Creation of custom exercises |
+| 🟢 | Explore Programs | Discovery of community programs |
 
 ---
 
-### 📈 Progress & Statistiques
+### Progress & Statistics
 
-| Statut | Feature | Description |
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Historique des workouts | Liste de toutes les séances passées |
-| 🟢 | Statistiques par exercice | Graphiques de progression |
-| 🟢 | Pré-remplissage intelligent | Dernières valeurs en placeholder |
+| 🟢 | Workout History | List of all past sessions |
+| 🟢 | Stats by Exercise | Progression charts |
+| 🟢 | Smart Pre-fill | Latest values as placeholders |
 
 ---
 
-### 🏠 Feed & Social
+### Feed & Social
 
-| Statut | Feature | Description |
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Feed social | Fil d'actualité des posts |
-| 🟢 | Publication de workouts | Partage des séances |
-| 🟢 | Likes & commentaires | Interactions sociales |
-| 🟢 | Profils utilisateurs | Pages profil avec stats |
-| 🟢 | Followers / Following | Système d'abonnements |
-| 🟢 | Notifications | Alertes d'activité |
+| 🟢 | Social Feed | News feed of posts |
+| 🟢 | Workout Publishing | Sharing completed sessions |
+| 🟢 | Likes & Comments | Social interactions |
+| 🟢 | User Profiles | Profile pages with stats |
+| 🟢 | Followers / Following | Subscription system |
+| 🟢 | Notifications | Activity alerts |
 
 ---
 
-### 👨‍🏫 Coaching Platform
+### Coaching Platform
 
-| Statut | Feature | Description |
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | Dashboard Coach | Vue d'ensemble pour les coachs |
-| 🟢 | Dashboard Élève | Vue pour les élèves coachés |
-| 🟢 | Marketplace Coachs | Liste des coachs publics |
-| 🟢 | Chat coach-élève | Messagerie avec médias |
-| 🟢 | Programmes assignés | Coach assigne des programmes |
-| 🟢 | Seeds (valeurs par défaut) | Coach définit les poids/reps de base |
-| 🟢 | Système de paiement | Stripe / abonnements |
-| 🟡 | **Coaching tous modes** | Support Timed, Circuit, Interval |
+| 🟢 | Coach Dashboard | Overview for coaches |
+| 🟢 | Student Dashboard | View for coached students |
+| 🟢 | Coach Marketplace | List of public coaches |
+| 🟢 | Coach-Student Chat | Messaging with media support |
+| 🟢 | Assigned Programs | Coach assigns programs to students |
+| 🟢 | Seeds (Default Values) | Coach sets base weights/reps |
+| 🟢 | Payment System | Stripe / subscriptions |
+| 🟡 | **Coaching All Modes** | Support for Timed, Circuit, Interval |
 
 ---
 
-### 📱 Expérience Mobile
+### Mobile Experience
 
-| Statut | Feature | Description |
+| Status | Feature | Description |
 |--------|---------|-------------|
-| 🟢 | iOS Live Activity | Widget dynamique pendant workout |
-| 🟢 | Android Widget | Widget de workout |
-| 🟢 | Push Notifications | Notifications natives |
-| 🟢 | Multi-langue | FR, EN, ES, IT |
-| 🟢 | Dark Mode | Thème sombre automatique |
-| 🟢 | Google Sign-In | Connexion Google |
-| 🟢 | Apple Sign-In | Connexion Apple |
+| 🟢 | iOS Live Activity | Dynamic widget during workout |
+| 🟢 | Android Widget | Workout widget |
+| 🟢 | Push Notifications | Native notifications |
+| 🟢 | Multi-language | FR, EN, ES, IT |
+| 🟢 | Dark Mode | Automatic dark theme |
+| 🟢 | Google Sign-In | Google authentication |
+| 🟢 | Apple Sign-In | Apple authentication |
 
 ---
 
-## 📦 Versions
+## Versions
 
-### v1.3.0 (Actuelle) ✅
-- Modes d'entraînement interval (Tabata, EMOM, AMRAP, For Time)
+### v1.3.0 (Current)
+- Interval training modes (Tabata, EMOM, AMRAP, For Time)
 - iOS Live Activity
-- Système de coaching complet
-- Dashboard personnalisable
+- Complete coaching system
+- Customizable dashboard
 
-### v1.4.0 (Prochaine)
-- 🔵 *À définir*
+### v1.4.0 (Next)
+- 🔵 *To be defined*
 
 ---
 
-## 🔮 Backlog
+## Backlog
 
-> Idées futures non encore planifiées. N'hésite pas à voter sur les issues !
+> Future ideas not yet planned. Feel free to vote on issues!
 
-| Idée | Description | Effort |
+| Idea | Description | Effort |
 |------|-------------|--------|
-| ⌚ Apple Watch App | Module compagnon pour Apple Watch | XL |
-| 🤖 Wear OS App | Module compagnon pour montres Android | XL |
-| 🧠 Programme adaptatif IA | Génération de programme personnalisé | XL |
-| 📊 Projection d'évolution | Visualiser une projection de progression | L |
-| 🔥 Échauffement intelligent | Warm-up généré automatiquement | L |
-| 👥 Comparaison entre amis | Se comparer avec ses amis | L |
-| 📤 Partage de programmes | Partager ses programmes (lien, QR code) | M |
-| 💎 Gymbro Premium | Abonnement avec features avancées | XL |
+| Apple Watch App | Companion module for Apple Watch | XL |
+| Wear OS App | Companion module for Android watches | XL |
+| AI Adaptive Program | Personalized program generation | XL |
+| Evolution Projection | Visualize realistic progression projection | L |
+| Smart Warm-up | Automatically generated warm-up | L |
+| Friend Comparison | Compare stats/PRs with friends | L |
+| Program Sharing | Share programs (link, QR code) | M |
+| Gymbro Premium | Subscription with advanced features | XL |
 
-### Légende Effort
-| Code | Durée estimée |
-|------|---------------|
-| S | 1-2 jours |
-| M | 3-5 jours |
-| L | 1-2 semaines |
-| XL | > 2 semaines |
-
----
-
-## 💡 Proposer une idée
-
-Tu as une suggestion ? [Ouvre une issue](../../issues/new) avec le tag `feature-request` !
+### Effort Legend
+| Code | Estimated Duration |
+|------|--------------------|
+| S | 1-2 days |
+| M | 3-5 days |
+| L | 1-2 weeks |
+| XL | > 2 weeks |
 
 ---
 
-*Créé avec ❤️ pour Gymbro*
+## Propose an Idea
+
+Have a suggestion? [Open an issue](../../issues/new) with the `feature-request` tag!
+
+---
+
+*Created with love for Gymbro*
