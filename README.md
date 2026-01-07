@@ -1,17 +1,12 @@
 <div align="center">
   <img src="assets/logo.png" alt="Gymbro Logo" width="250" />
+  
+  <br /><br />
 
   <p>
     <b>The modern bodybuilding app to track your workouts, follow your progress, and join a motivated community.</b>
   </p>
-
-  <a href="https://apps.apple.com/fr/app/gymbro-app/id6751058919">
-    <img src="assets/appstore.svg" alt="App Store" width="150" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro">
-    <img src="assets/playstore.svg" alt="Play Store" width="150" />
-  </a>
+  <a href="https://apps.apple.com/fr/app/gymbro-app/id6751058919"><img src="assets/appstore.svg" alt="App Store" width="120" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.gymbroapp.Gymbro"><img src="assets/playstore.svg" alt="Play Store" width="120" /></a>
 </div>
 
 ---
